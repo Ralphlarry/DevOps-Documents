@@ -24,6 +24,7 @@
     
 10. # Enter the following in your file and save it. Note that you need to update
     # the value of JAVA_HOME if your Java installation directory is not the same as given below:
+===================================================================================================    
     [Unit]
 Description=Apache Tomcat Web Application Container
 After=network.target
@@ -49,7 +50,7 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
-
+=====================================================================================================
 
 11. sudo systemctl daemon-reload
 
