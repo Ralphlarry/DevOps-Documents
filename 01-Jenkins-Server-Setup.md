@@ -25,6 +25,27 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
+===============================================================
+# a. Create the keyrings directory (if it doesn't exist)
+	sudo mkdir -p /etc/apt/keyrings
+
+# b. Download the Jenkins GPG key
+	sudo wget -O /etc/apt/keyrings/jenkins-keyring.asc \
+  	https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+
+# c. Add the Jenkins repository
+	echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc] https://pkg.jenkins.io/debian-stable binary/" | \
+  	sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
+
+# d. Update package index
+	sudo apt-get update
+
+## Now Install Jenkins
+## After the steps above are successful, install Jenkins with:
+	sudo apt-get install jenkins
+===================================================================
+
+
 ## Step-4 : Start Jenkins ## 
 
 ```
