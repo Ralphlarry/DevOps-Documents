@@ -24,8 +24,8 @@
     cat ~/.ssh/id_ed25519.pub
 
 
-#Confirm if it’s successful:
-    1. ssh -T git@github.com
+# Confirm if successful:
+    ssh -T git@github.com
 
 
 # Change remote URL from HTTPS to SSH:
