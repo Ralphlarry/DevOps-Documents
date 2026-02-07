@@ -46,6 +46,6 @@
 
 
 # Try push again (enter username and PAT as password):
-  git push -u origin feature/footer-v1
-  git remote remove origin
-  git remote add origin git@github.com:Ralphlarry/Pravin-Mishra-Portfolio-Template.git
+      1. git push -u origin feature/footer-v1
+      2. git remote remove origin
+      3. git remote add origin git@github.com:Ralphlarry/Pravin-Mishra-Portfolio-Template.git
