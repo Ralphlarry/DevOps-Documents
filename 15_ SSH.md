@@ -25,7 +25,7 @@
 
 
 #Confirm if it’s successful:
-    ssh -T git@github.com
+    1. ssh -T git@github.com
 
 
 # Change remote URL from HTTPS to SSH:
