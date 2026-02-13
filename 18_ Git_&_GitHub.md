@@ -1,5 +1,5 @@
-##  Scenario (Real Job Ticket):
-##  You joined the “CodeTrack” project. Your manager wants:
+Scenario (Real Job Ticket):
+You joined the “CodeTrack” project. Your manager wants:
 ##  1.	A clean initial commit with starter UI files
 ##  2.	A second commit after you follow product instructions in index.html
 ##  3.	A basic deployment to an EC2 web server (Nginx)
