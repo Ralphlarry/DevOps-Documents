@@ -1,5 +1,5 @@
 ##	✅ Ubuntu VM 
-##	✅ Nginx installed (from earlier assignment)
+##	✅ Nginx
 ##	✅ VM has internet access
 ##	✅ VM inbound rules allow HTTP (Port 80)
 
