@@ -4,18 +4,25 @@
 2.	A second commit after you follow product instructions in index.html
 3.	A basic deployment to an EC2 web server (Nginx)
 
-##   Learning Objectives
+##	Learning Objectives
 ##   You will learn to:
-##    •	Inspect repo state with git status
-##    •	Stage changes properly (git add . vs git add <file>)
-##    •	Create meaningful commits (two commits minimum)
-##    •	Verify history using git log --oneline
-##    •	Deploy a static website to EC2 using Nginx (industry simulation)
+•	Inspect repo state with git status
+•	Stage changes properly (git add . vs git add <file>)
+•	Create meaningful commits (two commits minimum)
+•	Verify history using 
+	
+	git log --oneline
+	
+•	Deploy a static website to EC2 using Nginx (industry simulation)
+
 ##  Prerequisites
-##    •	Assignment 1 completed: CodeTrack exists and is a Git repo (.git folder present)
-##    •	Git installed: git --version
-##    •	Basic file editing (VS Code / Notepad / Nano)
-##    •	AWS EC2 access for deployment task (Task 7)
+•	Assignment 1 completed: CodeTrack exists and is a Git repo (.git folder present)
+•	Git installed: 
+	
+	git --version
+	
+•	Basic file editing (VS Code / Notepad / Nano)
+•	AWS EC2 access for deployment task (Task 7)
 
 
 
