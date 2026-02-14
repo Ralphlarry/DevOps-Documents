@@ -6,23 +6,23 @@
 
 ##	Learning Objectives
 ##   You will learn to:
-•	Inspect repo state with git status
-•	Stage changes properly (git add . vs git add <file>)
-•	Create meaningful commits (two commits minimum)
-•	Verify history using 
+1.	Inspect repo state with git status
+2.	Stage changes properly (git add . vs git add <file>)
+3.	Create meaningful commits (two commits minimum)
+4.	Verify history using 
 	
-	git log --oneline
+		git log --oneline
 	
-•	Deploy a static website to EC2 using Nginx (industry simulation)
+5.	Deploy a static website to EC2 using Nginx (industry simulation)
 
 ##  Prerequisites
-•	Assignment 1 completed: CodeTrack exists and is a Git repo (.git folder present)
-•	Git installed: 
+1.	Assignment 1 completed: CodeTrack exists and is a Git repo (.git folder present)
+2.	Git installed: 
 	
-	git --version
+		git --version
 	
-•	Basic file editing (VS Code / Notepad / Nano)
-•	AWS EC2 access for deployment task (Task 7)
+3.	Basic file editing (VS Code / Notepad / Nano)
+4.	AWS EC2 access for deployment task (Task 7)
 
 
 
