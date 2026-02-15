@@ -1,7 +1,7 @@
-##	✅ Ubuntu VM 
-##	✅ Nginx
-##	✅ VM has internet access
-##	✅ VM inbound rules allow HTTP (Port 80)
+✅ Ubuntu VM 
+✅ Nginx
+✅ VM has internet access
+✅ VM inbound rules allow HTTP (Port 80)
 
 ##  Run these commands and verify outputs:
     hostname
@@ -22,10 +22,12 @@
     sudo cp -r /tmp/portfolio/* /var/www/html/
     sudo nginx -t && sudo systemctl reload nginx
 
+    
 
 
 
 
+###########################################################################################################################################
 
 
 ##  Install Software & Application Modification:
